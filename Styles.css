@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+div{
+    background-color: aquamarine;
+    color: #ffff;
+    border-radius: 12px;
+    padding: 24px;
+    margin-top: 50px;
+    margin-left: 24px;
+    margin-right: 24px;
+
+
+
+}
+h1{
+    text-shadow: 2pxسایه کجا بیاد؟   2px عمودی فاصله می اندازد  0pxمیزان بلودی بودن سایه  red;
+    box-shadow: ;
+
+}
